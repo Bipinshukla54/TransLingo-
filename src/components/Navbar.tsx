@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
       />
               </div>
               <span className="text-xl font-bold text-transparent bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text">
-                TransLingo
+                TransLingoo
               </span>
             </Link>
           </div>

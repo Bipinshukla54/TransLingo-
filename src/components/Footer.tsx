@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <div className="p-1 rounded-lg bg-gradient-to-r from-black-100 to-white-900">
                 <img src="/bs-logo1.png" alt="TransLingo Logo" className="object-contain w-8 h-8"/>
               </div>
-              <span className="text-xl font-bold">TransLingo</span>
+              <span className="text-xl font-bold">TransLingoo</span>
             </Link>
             <p className="max-w-md mb-6 text-gray-300">
               Breaking language barriers with AI-powered translation technology. 
